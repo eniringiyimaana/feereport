@@ -1,0 +1,55 @@
+*{
+    padding: 5px;
+    margin: 2px;
+    font-family: sans-serif, monospace, fantasy;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.container{
+    
+}
+
+.menu{
+    display: block;
+    background-color: black;
+    color: white;
+}
+
+.menu ul{
+    display: inline;
+}
+
+.menu ul li{
+    display: inline;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+   background-color: black;
+    color: white;
+    clear: both;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+.studentsearch{
+    margin: 20px;
+    padding: 20px;
+    width: 40%;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    
+}
